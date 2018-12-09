@@ -56,16 +56,28 @@ BackgroundItem {
         }
     }
 
-    Rectangle {
+    Canvas {
         id: greyBar
         anchors {
             right: parent.right
             top: parent.top
+            rightMargin: Theme.paddingLarge
         }
 
         width: withName ? parent.width / 2.0 - Theme.paddingLarge : parent.width - 2*Theme.paddingLarge
         height: cpuLabel.height + memLabel.height + 1
-        color: "dimgrey"
+        onPaint: {
+            var context = getContext("2d");
+
+            context.beginPath()
+            context.clearRect(0, 0, width, height)
+            context.fill()
+
+            context.fillStyle = 'rgba(27%, 27%, 27%, 0.5)'
+            context.beginPath()
+            context.fillRect(0, 0, width, height)
+            context.fill()
+        }
     }
 
     Rectangle {
