@@ -48,7 +48,7 @@ Page {
         Column {
             id: col
             PageHeader {
-                title: "Details"
+                title: qsTr("Process details")
             }
 
             width: page.width
