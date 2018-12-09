@@ -26,9 +26,9 @@ BackgroundItem {
             rightMargin: Theme.paddingSmall
             verticalCenter: parent.verticalCenter
         }
-
+        truncationMode: TruncationMode.Fade
         id: itemLabel
-        text: largeScreen ? procName : (isPortrait ? procName.substring(0,12) : procName)
+        text: procName
     }
 
     Text {
