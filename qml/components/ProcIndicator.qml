@@ -13,7 +13,6 @@ BackgroundItem {
     anchors {
         left: parent.left
         right: parent.right
-        margins: Theme.paddingLarge
     }
 
     height: greyBar.height
@@ -22,6 +21,10 @@ BackgroundItem {
         visible: withName
         anchors {
             left: parent.left
+            right: greyBar.left
+            leftMargin: Theme.paddingLarge
+            rightMargin: Theme.paddingSmall
+            verticalCenter: parent.verticalCenter
         }
 
         id: itemLabel
@@ -60,8 +63,7 @@ BackgroundItem {
             top: parent.top
         }
 
-        opacity: 0.5
-        width: withName ? parent.width / 2.0 : parent.width
+        width: withName ? parent.width / 2.0 - Theme.paddingLarge : parent.width - 2*Theme.paddingLarge
         height: cpuLabel.height + memLabel.height + 1
         color: "dimgrey"
     }
@@ -71,6 +73,7 @@ BackgroundItem {
         anchors {
             right: parent.right
             top: parent.top
+            rightMargin: Theme.paddingLarge
         }
 
         width: cpuUse / 100.0 * greyBar.width
@@ -84,6 +87,7 @@ BackgroundItem {
             right: parent.right
             top: parent.top
             topMargin: cpuBar.height + 1
+            rightMargin: Theme.paddingLarge
         }
 
         width: memUse / 100.0 * greyBar.width
