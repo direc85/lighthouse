@@ -56,7 +56,7 @@ CoverBackground {
 
     function getBotUnit(cp) {
         switch ( cp ) {
-            case 0: return "C°"
+            case 0: return "°C"
             case 1: return "MB"
             case 2: return ""
         }
@@ -90,7 +90,6 @@ CoverBackground {
             centerIn: parent
         }
         value: getTopVal(monitor.coverPage) / 100.0
-        borderWidth: 2
         progressColor: Theme.highlightColor
 
         DoubleIndicator {

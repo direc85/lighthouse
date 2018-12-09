@@ -37,7 +37,6 @@ Page {
             height: width
             anchors.horizontalCenter: parent.horizontalCenter
             value: battery.level/100.1
-            borderWidth: 2
             progressColor: Theme.highlightColor
 
             DoubleIndicator {

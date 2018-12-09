@@ -38,14 +38,13 @@ Page {
         height: width
         anchors.horizontalCenter: parent.horizontalCenter
         value: cpu.summaryValue / 100
-        borderWidth: 2
         progressColor: Theme.highlightColor
 
         DoubleIndicator {
           topVal: cpu.summaryValue
           topUnit: "%"
           botVal: cpu.temperature
-          botUnit: "C°"
+          botUnit: "°C"
         }
     }
 
@@ -89,14 +88,13 @@ Page {
         height: width
         anchors.verticalCenter: parent.verticalCenter
         value: cpu.summaryValue / 100
-        borderWidth: 2
         progressColor: Theme.highlightColor
 
         DoubleIndicator {
             topVal: cpu.summaryValue
             topUnit: "%"
             botVal: cpu.temperature
-            botUnit: "C°"
+            botUnit: "°C"
         }
     }
 

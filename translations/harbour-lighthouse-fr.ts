@@ -77,12 +77,12 @@
         <translation>Batterie</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="55"/>
+        <location filename="../qml/pages/Battery.qml" line="54"/>
         <source>Health: </source>
         <translation>État : </translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="63"/>
+        <location filename="../qml/pages/Battery.qml" line="62"/>
         <source>Technology: </source>
         <translation>Technologie : </translation>
     </message>
@@ -91,13 +91,13 @@
     <name>CPU</name>
     <message>
         <location filename="../qml/pages/CPU.qml" line="30"/>
-        <location filename="../qml/pages/CPU.qml" line="81"/>
+        <location filename="../qml/pages/CPU.qml" line="80"/>
         <source>CPU Usage</source>
         <translation>Processeurs</translation>
     </message>
     <message>
-        <location filename="../qml/pages/CPU.qml" line="70"/>
-        <location filename="../qml/pages/CPU.qml" line="116"/>
+        <location filename="../qml/pages/CPU.qml" line="69"/>
+        <location filename="../qml/pages/CPU.qml" line="114"/>
         <source>CPU</source>
         <translation>Processeur</translation>
     </message>
@@ -226,14 +226,20 @@
         <translation>Mémoire</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
-        <source> kB free out of </source>
-        <translation> Ko libres sur </translation>
+        <location filename="../qml/pages/Memory.qml" line="43"/>
+        <location filename="../qml/pages/Memory.qml" line="45"/>
+        <source>MB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
+        <source> kB free out of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
         <source> kB total</source>
-        <translation> Ko au total</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -258,13 +264,13 @@
     <name>ProcIndicator</name>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="34"/>
-        <source>cpu: </source>
-        <translation>cpu : </translation>
+        <source>CPU: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="45"/>
-        <source>mem: </source>
-        <translation>mém. : </translation>
+        <source>Mem: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

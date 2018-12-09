@@ -36,14 +36,13 @@ Page {
             height: width
             anchors.horizontalCenter: parent.horizontalCenter
             value: 1 - (memory.free / memory.total)
-            borderWidth: 2
             progressColor: Theme.highlightColor
 
             DoubleIndicator {
-                topVal: (memory.total - memory.free)
-                topUnit: "kB"
-                botVal: memory.total
-                botUnit: "kB"
+                topVal: ((memory.total - memory.free)/1024).toFixed(0)
+                topUnit: qsTr("MB")
+                botVal: (memory.total/1024).toFixed(0)
+                botUnit: qsTr("MB")
             }
         }
 

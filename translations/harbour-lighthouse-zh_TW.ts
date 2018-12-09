@@ -77,12 +77,12 @@
         <translation>電池使用量</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="55"/>
+        <location filename="../qml/pages/Battery.qml" line="54"/>
         <source>Health: </source>
         <translation>健康狀態：</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="63"/>
+        <location filename="../qml/pages/Battery.qml" line="62"/>
         <source>Technology: </source>
         <translation>電池種類：</translation>
     </message>
@@ -91,13 +91,13 @@
     <name>CPU</name>
     <message>
         <location filename="../qml/pages/CPU.qml" line="30"/>
-        <location filename="../qml/pages/CPU.qml" line="81"/>
+        <location filename="../qml/pages/CPU.qml" line="80"/>
         <source>CPU Usage</source>
         <translation>CPU使用量</translation>
     </message>
     <message>
-        <location filename="../qml/pages/CPU.qml" line="70"/>
-        <location filename="../qml/pages/CPU.qml" line="116"/>
+        <location filename="../qml/pages/CPU.qml" line="69"/>
+        <location filename="../qml/pages/CPU.qml" line="114"/>
         <source>CPU</source>
         <translation>CPU</translation>
     </message>
@@ -226,14 +226,20 @@
         <translation>記憶體使用量</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
-        <source> kB free out of </source>
-        <translation>kB未使用於</translation>
+        <location filename="../qml/pages/Memory.qml" line="43"/>
+        <location filename="../qml/pages/Memory.qml" line="45"/>
+        <source>MB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
+        <source> kB free out of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
         <source> kB total</source>
-        <translation>kB中</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -258,13 +264,13 @@
     <name>ProcIndicator</name>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="34"/>
-        <source>cpu: </source>
-        <translation>CPU：</translation>
+        <source>CPU: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="45"/>
-        <source>mem: </source>
-        <translation>記憶體：</translation>
+        <source>Mem: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

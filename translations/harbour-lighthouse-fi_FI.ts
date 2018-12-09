@@ -6,67 +6,67 @@
     <message>
         <location filename="../qml/pages/About.qml" line="43"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="54"/>
         <source>Lighthouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Lighthouse</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="54"/>
         <source>by Aleš Katona and Lavaux Gilles.</source>
-        <translation type="unfinished"></translation>
+        <translation>tekijöiltä Aleš Katona ja Lavaux Gilles.</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="65"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Kääntäjät</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="77"/>
         <source>Czech translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/fri/&apos;&gt;fri&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tsekinkielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/fri/&apos;&gt;fri&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="93"/>
         <source>Russian translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/lewa/&apos;&gt;Alexey (lewa)&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Venäjänkielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/lewa/&apos;&gt;Alexey (lewa)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="109"/>
         <source>Spanish translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/hobarrera/&apos;&gt;Hugo Osvaldo Barrera (hobarrera)&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espanjankielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/hobarrera/&apos;&gt;Hugo Osvaldo Barrera (hobarrera)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="125"/>
         <source>Taiwanese translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/hanhsuan/&apos;&gt;hanhsuan&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taiwaninkielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/hanhsuan/&apos;&gt;hanhsuan&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="141"/>
         <source>Chinese translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/TylerTemp/&apos;&gt;TylerTemp&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiinankielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/TylerTemp/&apos;&gt;TylerTemp&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="157"/>
         <source>French translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/Nerfiaux/&apos;&gt;Guillaume ARIAUX (Nerfiaux)&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ranskankielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/Nerfiaux/&apos;&gt;Guillaume ARIAUX (Nerfiaux)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="173"/>
         <source>Italian translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/ghostofasmile/&apos;&gt;Francesco Vaccaro (ghostofasmile)&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiankielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/ghostofasmile/&apos;&gt;Francesco Vaccaro (ghostofasmile)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="189"/>
         <source>Swedish translation by &lt;a href=&apos;https://www.transifex.com/accounts/profile/AsavarTzeth/&apos;&gt;Patrik Nilsson (AsavarTzeth)&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruotsinkielen käännös: &lt;a href=&apos;https://www.transifex.com/accounts/profile/AsavarTzeth/&apos;&gt;Patrik Nilsson (AsavarTzeth)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="205"/>
         <source>Lighthouse is free software licensed under the GPL v3 available at &lt;a href=&apos;https://github.com/almindor/lighthouse&apos;&gt;github&lt;/a&gt;.                Device controls DBus code inspired by &lt;a href=&apos;https://github.com/ejjoman/SailfishReboot&apos;&gt;SailfishReboot&lt;/a&gt;. Tablet support by &lt;a href=&apos;https://github.com/a-dekker&apos;&gt;a-dekker&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lighthouse on avoin ohjelmisto, jonka lisenssi on GPL v3. Lähdekoodin löydät osoitteesta &lt;a href=&apos;https://github.com/almindor/lighthouse&apos;&gt;github&lt;/a&gt;.                Laitehallinnan DBus-koodin inspiraation lähteenä toimi &lt;a href=&apos;https://github.com/ejjoman/SailfishReboot&apos;&gt;SailfishReboot&lt;/a&gt;.Tuen tableteille teki &lt;a href=&apos;https://github.com/a-dekker&apos;&gt;a-dekker&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -74,32 +74,32 @@
     <message>
         <location filename="../qml/pages/Battery.qml" line="32"/>
         <source>Battery Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Akun varaus</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="55"/>
+        <location filename="../qml/pages/Battery.qml" line="54"/>
         <source>Health: </source>
-        <translation type="unfinished"></translation>
+        <translation>Akun kunto:</translation>
     </message>
     <message>
-        <location filename="../qml/pages/Battery.qml" line="63"/>
+        <location filename="../qml/pages/Battery.qml" line="62"/>
         <source>Technology: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tekniikka:</translation>
     </message>
 </context>
 <context>
     <name>CPU</name>
     <message>
         <location filename="../qml/pages/CPU.qml" line="30"/>
-        <location filename="../qml/pages/CPU.qml" line="81"/>
+        <location filename="../qml/pages/CPU.qml" line="80"/>
         <source>CPU Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosessorin käyttö</translation>
     </message>
     <message>
-        <location filename="../qml/pages/CPU.qml" line="70"/>
-        <location filename="../qml/pages/CPU.qml" line="116"/>
+        <location filename="../qml/pages/CPU.qml" line="69"/>
+        <location filename="../qml/pages/CPU.qml" line="114"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
 </context>
 <context>
@@ -108,24 +108,24 @@
         <location filename="../qml/pages/Details.qml" line="79"/>
         <source>CPU</source>
         <comment>details CPU indicator name</comment>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="85"/>
         <source>Memory</source>
         <comment>details Memory indicator name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Muisti</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="91"/>
         <source>Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>Tapa</translation>
     </message>
     <message>
         <location filename="../qml/pages/Details.qml" line="91"/>
         <location filename="../qml/pages/Details.qml" line="102"/>
         <source>Permission denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Oikeuksia vaaditaan</translation>
     </message>
 </context>
 <context>
@@ -136,7 +136,7 @@
         <location filename="../src/battery.cpp" line="11"/>
         <source>Unavailable</source>
         <comment>battery status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ei saatavilla</translation>
     </message>
 </context>
 <context>
@@ -144,12 +144,12 @@
     <message>
         <location filename="../src/cpu.cpp" line="46"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedot</translation>
     </message>
     <message>
         <location filename="../src/cpu.cpp" line="50"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvaus</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
         <location filename="../src/languages.cpp" line="68"/>
         <source>Unknown</source>
         <comment>language</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon</translation>
     </message>
 </context>
 <context>
@@ -167,46 +167,46 @@
         <location filename="../src/monitor.cpp" line="94"/>
         <source>cpu</source>
         <comment>cover label</comment>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="95"/>
         <source>memory</source>
         <comment>cover label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Muisti</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="96"/>
         <source>battery</source>
         <comment>cover label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Akku</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="97"/>
         <source>unknown</source>
         <comment>cover label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="119"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="120"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Muisti</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="121"/>
         <source>Battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Akku</translation>
     </message>
     <message>
         <location filename="../src/monitor.cpp" line="122"/>
         <source>Unknown</source>
         <comment>Cover label in summary page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon</translation>
     </message>
 </context>
 <context>
@@ -215,7 +215,7 @@
         <location filename="../src/process.cpp" line="74"/>
         <source>Unknown</source>
         <comment>Process name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon</translation>
     </message>
 </context>
 <context>
@@ -223,17 +223,23 @@
     <message>
         <location filename="../qml/pages/Memory.qml" line="31"/>
         <source>Memory Usage</source>
+        <translation>Muistin käyttö</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/Memory.qml" line="43"/>
+        <location filename="../qml/pages/Memory.qml" line="45"/>
+        <source>MB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
         <source> kB free out of </source>
-        <translation type="unfinished"></translation>
+        <translation> kB vapaana, yhteensä </translation>
     </message>
     <message>
-        <location filename="../qml/pages/Memory.qml" line="54"/>
+        <location filename="../qml/pages/Memory.qml" line="53"/>
         <source> kB total</source>
-        <translation type="unfinished"></translation>
+        <translation>kB</translation>
     </message>
 </context>
 <context>
@@ -241,29 +247,29 @@
     <message>
         <location filename="../qml/pages/Phone.qml" line="29"/>
         <source>Device Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Laitehallinta</translation>
     </message>
     <message>
         <location filename="../qml/pages/Phone.qml" line="38"/>
         <source>Reboot</source>
-        <translation type="unfinished"></translation>
+        <translation>Uudelleenkäynnistä</translation>
     </message>
     <message>
         <location filename="../qml/pages/Phone.qml" line="47"/>
         <source>Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammuta</translation>
     </message>
 </context>
 <context>
     <name>ProcIndicator</name>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="34"/>
-        <source>cpu: </source>
+        <source>CPU: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/components/ProcIndicator.qml" line="45"/>
-        <source>mem: </source>
+        <source>Mem: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -272,37 +278,37 @@
     <message>
         <location filename="../qml/pages/Process.qml" line="38"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovellukset</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="38"/>
         <source>Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosessit</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="45"/>
         <source>Show Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä prosessit</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="45"/>
         <source>Show Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä sovellukset</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="50"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestä nimen mukaan</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="56"/>
         <source>Sort by Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestä muistin käytön mukaan</translation>
     </message>
     <message>
         <location filename="../qml/pages/Process.qml" line="62"/>
         <source>Sort by CPU Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestä prosessorin käytön mukaan</translation>
     </message>
 </context>
 <context>
@@ -310,22 +316,22 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="31"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="54"/>
         <source>Update interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitysväli</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="67"/>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Kielet</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="100"/>
         <source>App Restart Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovelluksen uudelleekäynnistys vaaditaan</translation>
     </message>
 </context>
 <context>
@@ -333,47 +339,47 @@
     <message>
         <location filename="../qml/pages/Summary.qml" line="32"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="36"/>
         <source>Device Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Laitehallinta</translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="40"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="53"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhteenveto</translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="64"/>
         <source>Uptime: </source>
-        <translation type="unfinished"></translation>
+        <translation>Päälläoloaika: </translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="74"/>
         <source>CPUs: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ytimet: </translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="84"/>
         <source>Memory: </source>
-        <translation type="unfinished"></translation>
+        <translation>Muisti: </translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="93"/>
         <source>Processes: </source>
-        <translation type="unfinished"></translation>
+        <translation>Prosessit: </translation>
     </message>
     <message>
         <location filename="../qml/pages/Summary.qml" line="102"/>
         <source>Battery: </source>
-        <translation type="unfinished"></translation>
+        <translation>Akku: </translation>
     </message>
 </context>
 </TS>
