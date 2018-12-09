@@ -37,12 +37,18 @@ Canvas {
         var stepY = height / 100
         var context = getContext("2d");
 
-        context.fillStyle = Theme.secondaryHighlightColor
-        context.strokeStyle = Theme.highlightColor
 
         context.beginPath()
         context.clearRect(0, 0, width, height)
         context.fill()
+
+        context.fillStyle = 'rgba(69, 69, 69, 0.5)'
+        context.beginPath()
+        context.fillRect(0, 0, width, height)
+        context.fill()
+
+        context.fillStyle = Theme.secondaryHighlightColor
+        context.strokeStyle = Theme.highlightColor
 
         context.beginPath()
         context.moveTo(0, height - stepY * Usage.history[0])
